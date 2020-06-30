@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ljz.app">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.ljz.receiver" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER"/>
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <permission
+        android:name="com.ljz.receiver"
+        android:protectionLevel="signature" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity android:name=".TwoActivity" />
+
+        <service android:name="ljz.app.func.service.TestService" />
+
+        <service android:name="ljz.app.func.service.TestServiceOne" />
+
+        <activity android:name=".func.window.DialogActivity" />
+        <activity android:name=".func.broadcast.activity.BroadCastActivityTest" />
+        <activity android:name=".func.animator.AnimSimpleActivity" />
+        <activity android:name=".func.animator.PropertyAnimationActivity" />
+        <activity android:name=".func.animator.ViewAnimActivity"/>
+
+        <activity android:name=".func.serialize.TestSerializeActivity" />
+        <activity android:name=".func.serialize.ParcelActivity" />
+        <activity android:name=".func.view.ViewTestActivity" />
+        <activity android:name=".KotlinActivity" />
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".func.surfaceview.SurfaceViewActivity"/>
+
+        <activity android:name=".HomeActivity">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".RequestActivity"/>
+
+
+
+
+        <receiver
+            android:name=".func.broadcast.receiver.StaticReceiver"
+            android:exported="true"
+            android:permission="com.ljz.local"></receiver>
+        <receiver android:name=".func.broadcast.receiver.ReceiverTwo">
+            <intent-filter
+                android:autoVerify="true"
+                android:priority="100">
+                <action android:name="com.ljz.static" />
+
+            </intent-filter>
+
+        </receiver>
+        <receiver android:name=".func.broadcast.receiver.ReceiverOne">
+
+            <intent-filter
+                android:autoVerify="true"
+                android:priority="500">
+                <action android:name="com.ljz.static" />
+
+            </intent-filter>
+
+        </receiver>
+        <receiver android:name=".func.broadcast.receiver.ReceiverFour">
+
+            <intent-filter
+                android:autoVerify="true"
+                android:priority="1000">
+                <action android:name="com.ljz.static" />
+
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".func.broadcast.receiver.ReceiverThree">
+            <intent-filter
+                android:autoVerify="true"
+                android:priority="400">
+                <action android:name="com.ljz.static" />
+
+            </intent-filter>
+
+        </receiver>
+
+
+    </application>
+
+</manifest>

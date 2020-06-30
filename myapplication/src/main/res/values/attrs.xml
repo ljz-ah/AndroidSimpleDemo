@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TouchSlidView">
+        <attr name="myBackground" format="reference" />
+
+
+    </declare-styleable>
+
+    <declare-styleable name="TitleBarView">
+
+        <attr name="titleText" format="string" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="leftTextColor" format="color" />
+        <attr name="leftBackGround" format="reference" />
+        <attr name="leftText" format="string" />
+        <attr name="rightTextColor" format="color" />
+        <attr name="rightBackGround" format="reference" />
+        <attr name="rightText" format="string" />
+
+
+    </declare-styleable>
+
+
+</resources>

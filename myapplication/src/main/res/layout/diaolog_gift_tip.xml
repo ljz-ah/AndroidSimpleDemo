@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    tools:context=".MainActivity"
+    android:background="@mipmap/trans_half_bg">
+
+    <ImageView
+        android:id="@+id/iv_gift"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/pub_50dp"
+        android:onClick="toActivity"
+        android:src="@mipmap/gift_bg" />
+
+    <ImageView
+        android:id="@+id/iv_close"
+        android:layout_width="@dimen/pub_50dp"
+        android:layout_height="@dimen/pub_50dp"
+        android:layout_below="@+id/iv_gift"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/icon_cancel" />
+
+
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pub_5dp">5dp</dimen>
+    <dimen name="pub_10dp">10dp</dimen>
+    <dimen name="pub_15dp">15dp</dimen>
+    <dimen name="pub_20dp">20dp</dimen>
+    <dimen name="pub_25dp">25dp</dimen>
+    <dimen name="pub_30dp">30dp</dimen>
+    <dimen name="pub_50dp">50dp</dimen>
+    <dimen name="pub_60dp">60dp</dimen>
+    <dimen name="pub_61dp">61dp</dimen>
+    <dimen name="pub_62dp">62dp</dimen>
+    <dimen name="pub_63dp">63dp</dimen>
+    <dimen name="pub_64dp">64dp</dimen>
+    <dimen name="pub_65dp">65dp</dimen>
+    <dimen name="pub_66dp">66dp</dimen>
+    <dimen name="pub_67dp">67dp</dimen>
+    <dimen name="pub_68dp">68dp</dimen>
+    <dimen name="pub_69dp">69dp</dimen>
+    <dimen name="pub_70dp">70dp</dimen>
+    <dimen name="pub_80dp">80dp</dimen>
+    <dimen name="pub_90dp">90dp</dimen>
+    <dimen name="pub_100dp">100dp</dimen>
+    <dimen name="pub_110dp">110dp</dimen>
+    <dimen name="pub_120dp">120dp</dimen>
+    <dimen name="pub_130dp">130dp</dimen>
+    <dimen name="pub_135dp">135dp</dimen>
+    <dimen name="pub_140dp">140dp</dimen>
+    <dimen name="pub_150dp">150dp</dimen>
+    <dimen name="pub_160dp">160dp</dimen>
+    <dimen name="pub_170dp">170dp</dimen>
+    <dimen name="pub_180dp">180dp</dimen>
+    <dimen name="pub_200dp">200dp</dimen>
+    <dimen name="pub_210dp">210dp</dimen>
+    <dimen name="pub_220dp">220dp</dimen>
+    <dimen name="pub_240dp">240dp</dimen>
+</resources>

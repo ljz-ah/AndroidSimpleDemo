@@ -1,0 +1,28 @@
+include ':myapplication'
+//     , ':demobroadcastreceiver'
+//       ':remember',
+//        ':rememberlib'
+//        ':test',
+//        'dialogPlusLibary'
+//include "android-volley"
+//project(':android-volley').projectDir = new File(rootProject.projectDir, '../android-volley')
+
+//include ':cmlsdk'
+//project(':cmlsdk').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/cmlsdk')
+//include ':cmlweb'
+//project(':cmlweb').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/cmlweb')
+//include ':cmlweex'
+//project(':cmlweex').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/cmlweex')
+//include ':js-bundle-mgr'
+//project(':js-bundle-mgr').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/js-bundle-mgr')
+//include ':rich-text-component'
+//project(':rich-text-component').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/rich-text-component')
+//include ':sdk-image'
+//project(':sdk-image').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/sdk-image')
+//include ':sdk-location'
+//project(':sdk-location').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/sdk-location')
+
+//include ':app'
+//project(':app').projectDir = new File(rootProject.projectDir, '../chameleon-sdk-android/app')
+
+

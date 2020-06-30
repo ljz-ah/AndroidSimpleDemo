@@ -27,7 +27,7 @@ import ljz.app.Interface.OnScreenClickListener;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/7/11 23:02.
  * @version 1.0
  */

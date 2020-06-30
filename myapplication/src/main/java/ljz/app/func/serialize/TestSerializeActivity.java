@@ -22,7 +22,7 @@ import ljz.app.func.utils.FileUtil;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/9/29 10:48.
  * @version 1.0
  */

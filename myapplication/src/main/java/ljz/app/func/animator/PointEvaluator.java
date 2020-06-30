@@ -5,7 +5,7 @@ import android.animation.TypeEvaluator;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/10/29 16:52.
  * @version 1.0
  */

@@ -35,7 +35,7 @@ import ljz.app.view.TitleBarView;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/9/26 13:51.
  * @version 1.0
  */

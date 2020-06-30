@@ -7,7 +7,7 @@ import android.content.Intent;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/9/10 16:53.
  * @version 1.0
  */

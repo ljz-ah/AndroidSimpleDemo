@@ -22,7 +22,7 @@ import ljz.app.func.service.TestServiceOne;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/6/13 9:28.
  * @version 1.0
  */

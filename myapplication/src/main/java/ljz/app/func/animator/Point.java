@@ -3,7 +3,7 @@ package ljz.app.func.animator;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/10/29 16:51.
  * @version 1.0
  */

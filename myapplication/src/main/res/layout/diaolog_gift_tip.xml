@@ -14,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/pub_50dp"
         android:onClick="toActivity"
-        android:src="@mipmap/gift_bg" />
+      />
 
     <ImageView
         android:id="@+id/iv_close"

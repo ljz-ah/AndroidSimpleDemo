@@ -20,7 +20,7 @@ import ljz.app.IMyAidlInterface;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/6/13 14:31.
  * @version 1.0
  */

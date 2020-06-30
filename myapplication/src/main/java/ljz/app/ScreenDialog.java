@@ -14,7 +14,7 @@ import org.jetbrains.annotations.Nullable;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/3/28 10:39.
  * @version 1.0
  */

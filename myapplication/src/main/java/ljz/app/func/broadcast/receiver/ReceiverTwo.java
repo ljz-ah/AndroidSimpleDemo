@@ -8,7 +8,7 @@ import android.util.Log;
 /**
  * 项目名称：LJZ_DEMO
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/8/27 9:15.
  * @version 1.0
  */

@@ -16,7 +16,7 @@ import java.util.LinkedList;
 /**
  * 项目名称：xwydzf-android-ci-appMerge-ytxupdata
  *
- * @author LJZ ljz@yitong.com.cn
+ * @author LJZ
  * Created Time  2019/9/19 17:42.
  * @version 1.0
  */
